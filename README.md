@@ -12,3 +12,13 @@ Small GUI program to Plot a 3D seismic volume as slices along the x,y,z axis.Plo
 * Enter xline and inline range 
 
 ![GUI](https://raw.githubusercontent.com/pydev1988/3D-Seismic-Visualization/master/3d_plot_GUI.jpeg)
+
+* Press plot to see how much data needs to be padded based on IL , XL input
+
+![GUI_MESSAGE](https://raw.githubusercontent.com/pydev1988/3D-Seismic-Visualization/master/3d_plot_GUI_message.jpeg)
+
+* Once you press ok the scipt will continue to plot the 3D cube 
+
+![3d_plot](https://raw.githubusercontent.com/pydev1988/3D-Seismic-Visualization/master/3D_volume_plot.png)
+
+
