@@ -7,7 +7,9 @@ Small GUI program to Plot a 3D seismic volume as slices along the x,y,z axis.Plo
 * obspy
 * mayavi
   
-## GUI :
+## GUI : This will pop up after you execute the script ##
+
+
 
 * Enter xline and inline range 
 
